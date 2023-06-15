@@ -1,2 +1,2 @@
-# NYC-Taxi-Fare-Prediction
- Taxi Fare Prediction in New York City
+# New York City Taxi Fare Prediction
+  Predict a rider's taxi fare in New York City
