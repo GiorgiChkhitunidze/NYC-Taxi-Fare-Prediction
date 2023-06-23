@@ -9,4 +9,4 @@ The work is distributed in two notebooks:
 - <a href="https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm">"Borough Boundaries"</a> by NYC Open Data
 - <a href="https://www.google.com/maps/d/embed?mid=18N3dViad_pKEMUg7M_s4Dz3Iz69kyWM&ehbc=2E312F">New York City Airports</a> in Google Maps
 - <a href="https://earth.google.com/earth/d/1FcMh71d5kCygSaPON0rEm6XnvecTJvCE?usp=sharing">Polygon surrounding New York City</a> in Google Earth
-- Social media preview image by <a href="https://pixabay.com/users/smaus-38593/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=123420">Sophie Maus</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=123420">Pixabay</a>
+- Social media preview image by <a href="https://pixabay.com/users/dakub-8222964/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3215351">David</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3215351">Pixabay</a>
